@@ -2,7 +2,7 @@
 
 **Title:** [Sylip Sales Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/Sylip_Sales_Analysis.xlsx)
 
-**Tools Used:**
+**Tools Used:** Data cleansing, text formatting, date splitting, pivot tables, pivot charts, pivot charts analyse, field list, field buttons, chart elements, chart style, chart colour, and slicer
 
 **Project Description:**
 
