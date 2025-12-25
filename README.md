@@ -10,4 +10,4 @@
 
 **Dashboard Overview:**
 
-![Sylip_Corp](Sylip_Corp.JPG)
+![Sylip_DB](Sylip_DB.JPG)
