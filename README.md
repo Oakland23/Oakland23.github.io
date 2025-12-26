@@ -11,3 +11,20 @@
 **Dashboard Overview:**
 
 ![Sylip_DB](Sylip_DB.JPG)
+
+
+# Project 2
+
+**Title:** [SCO Performance Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/SCO.xlsx)
+
+**MS Excel Code:**
+
+**MS Excel Skills Used:**
+
+**Project Description:**
+
+**Technology Used:**
+
+**Dashboard Overview:**
+
+![SCO _Dashboard](SCO _Dashboard.JPG)
