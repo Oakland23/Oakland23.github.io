@@ -55,4 +55,4 @@
 
 **Dashboard Overview:**
 
-![Global_SR](Global_SR.pdf)
+![Global_SR](Global_SR.JPG)
