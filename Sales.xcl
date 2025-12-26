@@ -1,26 +1,35 @@
 **...1.Total Profit Per Region**
 SUMIF($A$2:$A$101,S6,$O$2:$O$101)
+
 **...2.Total Revenue Per Year**
 SUMIF($G$2:$G$101,S17,$M$2:$M$101)
+
 **...3.Product Quantity Sold Year-on-Year**
 SUMIFS($J$2:$J$101,$C$2:$C$101,S29,$G$2:$G$101,$T28)
 SUMIFS($J$2:$J$101,$C$2:$C$101,S29,$G$2:$G$101,$U$28)
+
 **...4.Rate of Total Revenue Earned Per Region**
 SUMIF($A$2:$A$101,S45,$M$2:$M$101)
 (T45/$T$52)*100
+
 **...5.Gross Profit Margin Per Item Type**
 SUMIF($C$2:$C$101,S56,$M$2:$M$101)
 SUMIF($C$2:$C$101,S56,$O$2:$O$101)
 (U56/T56)*100
+
 **...6.Average Profit Per Year**
 AVERAGEIF($G$2:$G$101,S72,$O$2:$O$101)
+
 **...7.Revenue Earned by Countries**
 SUMIF($B$2:$B$101,S83,$M$2:$M$101)
+
 **...8.Top 4 Countries By Revenue**
 INDEX($S$83:$S$158, MATCH(LARGE($T$83:$T$158, $U83), $T$83:$T$158, 0))
 LARGE($T$83:$T$158,U83)
+
 **...9.Bottom 4 Countries By Revenue**
 INDEX($S$83:$S$158, MATCH(SMALL($T$83:$T$158, $U89), $T$83:$T$158, 0))
 SMALL($T$83:$T$158,U89)
+
 **...10.Year-on-Year Revenue Growth**
 ((T163-T163)/T163)*100
