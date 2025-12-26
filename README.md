@@ -32,9 +32,9 @@
 
 # Project 3
 
-**Title:** Employee Data
+**Title:** Human Resources
 
-**SQL Code:** [HR Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
+**SQL Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
 
 **SQL Skills Used:**
 
