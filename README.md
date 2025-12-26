@@ -43,3 +43,16 @@
 **Technology Used:** SQL Server
 
 
+# Project 4
+
+**Title:** [Global Sales Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/PBI_SR.pbix)
+
+**Tools Used:** MS Excel (text formatting, date splitting); Power BI.
+
+**Project Description:**
+
+**Key Findings:**
+
+**Dashboard Overview:**
+
+[Global_SR](Global_SR.pdf)
