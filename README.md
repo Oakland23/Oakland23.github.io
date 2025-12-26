@@ -34,7 +34,7 @@
 
 **Title:** Employee Data
 
-**SQL Code:** HR Database-SQL Code
+**SQL Code:** [HR Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
 
 **SQL Skills Used:**
 
