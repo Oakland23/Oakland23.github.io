@@ -27,4 +27,4 @@
 
 **Dashboard Overview:**
 
-![SCO_Dashboard](SCO_Dashboard.JPG)
+![SCO _Dashboard](SCO _Dashboard.JPG)
