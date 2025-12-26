@@ -28,3 +28,18 @@
 **Dashboard Overview:**
 
 ![SCO_DB](SCO_DB.JPG)
+
+
+# Project 2
+
+**Title:** Employee Data
+
+**SQL Code:** HR Database-SQL Code
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology Used:** SQL Server
+
+
