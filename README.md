@@ -17,7 +17,7 @@
 
 **Title:** [SCO Performance Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/SCO.xlsx)
 
-**MS Excel Code:**
+**MS Excel Code:** [Sales Report-MS Excel Script](https://github.com/Oakland23/Oakland23.github.io/blob/main/Sales.xcl)
 
 **MS Excel Skills Used:**
 
