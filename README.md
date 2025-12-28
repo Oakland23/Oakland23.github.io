@@ -4,7 +4,7 @@
 
 **Tools Used:** MS Excel (text formatting, date splitting, pivot tables, pivot charts, pivot charts analyse, field list, field buttons, chart elements, chart style, chart colour, percentage difference from, rank, sort, value filters, and slicer).
 
-**Project Description:**
+**Project Description:** Creating a dashboard that analytically summarises an internatonal company's sales activity over a period using MS Excel's pivot tables
 
 **Key Findings:**
 
@@ -19,11 +19,9 @@
 
 **MS Excel Formula:** [Sales Report-MS Excel Formula](https://github.com/Oakland23/Oakland23.github.io/blob/main/Sales.xcl)
 
-**MS Excel Skills Used:**
+**MS Excel Skills Used:** MS Excel (Text formating, tables, charts, colour, formula)
 
-**Project Description:**
-
-**Technology Used:**
+**Project Description:** Creating a dashboard that visualises a comapny's key sales performance over a period using primarily MS Excel formula
 
 **Dashboard Overview:**
 
@@ -36,9 +34,9 @@
 
 **SQL Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
 
-**SQL Skills Used:**
+**SQL Skills Used:** ETL, database creation, data import to SQL server, interrogating data across tables, report export 
 
-**Project Description:**
+**Project Description:** Write SQL queries that analytically interrogates the make-up of a company's employees database
 
 **Technology Used:** SQL Server
 
@@ -47,9 +45,9 @@
 
 **Title:** [Global Sales Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/PBI_SR.pbix)
 
-**Tools Used:** MS Excel (text formatting, date splitting); Power BI.
+**Tools Used:** Power BI (Get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
 
-**Project Description:**
+**Project Description:** Creating a dashboard that analytically visualises the sales report of a period
 
 **Key Findings:**
 
