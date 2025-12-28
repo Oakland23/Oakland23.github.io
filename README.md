@@ -6,7 +6,7 @@
 
 **Project Description:** Creating a dashboard that analytically summarises a company's sales activity over a period using MS Excel's pivot tables
 
-**Key Findings:**
+**Key Findings:** 50% gross margin on average, best performer is cosmetics, and topmost earner is sub-sahara Africa
 
 **Dashboard Overview:**
 
@@ -49,7 +49,7 @@
 
 **Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report over a period
 
-**Key Findings:**
+**Key Findings:** An average profit per order of 441.68k earned, worst performing year 2011 immediately succeeded by best year 2012.
 
 **Dashboard Overview:**
 
