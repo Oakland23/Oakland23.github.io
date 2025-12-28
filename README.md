@@ -21,7 +21,7 @@
 
 **MS Excel Skills Used:** MS Excel (Text formating, tables, charts, colour, formula)
 
-**Project Description:** Creating a dashboard that visualises a comapny's key sales performance over a period using primarily MS Excel formula
+**Project Description:** Creating a dashboard that visualises a company's key sales performance over a period using primarily MS Excel formula
 
 **Dashboard Overview:**
 
