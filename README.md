@@ -47,7 +47,7 @@
 
 **Tools Used:** Power BI (Get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
 
-**Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report of a period
+**Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report over a period
 
 **Key Findings:**
 
