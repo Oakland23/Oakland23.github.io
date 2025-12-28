@@ -45,7 +45,7 @@
 
 **Title:** [Global Sales Report](https://github.com/Oakland23/Oakland23.github.io/blob/main/PBI_SR.pbix)
 
-**Tools Used:** Power BI (Get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
+**Tools and Skills Used:** Power BI (ETL, get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
 
 **Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report over a period
 
