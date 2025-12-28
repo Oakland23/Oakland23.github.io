@@ -4,7 +4,7 @@
 
 **Tools Used:** MS Excel (text formatting, date splitting, pivot tables, pivot charts, pivot charts analyse, field list, field buttons, chart elements, chart style, chart colour, percentage difference from, rank, sort, value filters, and slicer).
 
-**Project Description:** Creating a dashboard that analytically summarises an internatonal company's sales activity over a period using MS Excel's pivot tables
+**Project Description:** Creating a dashboard that analytically summarises a company's sales activity over a period using MS Excel's pivot tables
 
 **Key Findings:**
 
@@ -47,7 +47,7 @@
 
 **Tools Used:** Power BI (Get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
 
-**Project Description:** Creating a dashboard that analytically visualises the sales report of a period
+**Project Description:** Creating a dashboard that analytically visualises a Multinationa's sales report of a period
 
 **Key Findings:**
 
