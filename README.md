@@ -34,9 +34,9 @@
 
 **SQL Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
 
-**SQL Skills Used:** ETL, database creation, data import to SQL server, interrogating data across tables, report export 
+**SQL Skills Used:** ETL, database creation, data import, data interrogation across tables, report export 
 
-**Project Description:** Write SQL queries that analytically interrogates the make-up of a company's employees database
+**Project Description:** Writing SQL queries that analytically interrogates the make-up of a company's employees database
 
 **Technology Used:** SQL Server
 
@@ -47,7 +47,7 @@
 
 **Tools Used:** Power BI (Get data, measure tools, DAX, table tools, visual builds, format, data drill, shape, colour)
 
-**Project Description:** Creating a dashboard that analytically visualises a Multinationa's sales report of a period
+**Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report of a period
 
 **Key Findings:**
 
