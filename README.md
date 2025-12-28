@@ -23,6 +23,8 @@
 
 **Project Description:** Creating a dashboard that visualises a company's key sales performance over a period using primarily MS Excel formula
 
+**Key Findings:**
+
 **Dashboard Overview:**
 
 ![SCO_DB](SCO_DB.JPG)
