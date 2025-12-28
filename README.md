@@ -6,7 +6,7 @@
 
 **Project Description:** Creating a dashboard that analytically summarises a company's sales activity over a period using MS Excel's pivot tables
 
-**Key Findings:** 50% gross margin on average, best performer is cosmetics, and topmost earner is sub-sahara Africa
+**Key Findings:** 50% gross margin on average year, best performer is cosmetics, and topmost earner is sub-sahara Africa
 
 **Dashboard Overview:**
 
