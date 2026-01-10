@@ -51,9 +51,11 @@
 
 **Project Description:** Creating a dashboard that analytically visualises a Multinational's sales report over a period
 
-**Key Findings:** An average profit per order of 441.68k earned, worst performing year 2011 immediately succeeded by best year 2012.
+**Key Findings:** An average profit per order of 441.68k was earned, with worst performing year 2011 immediately succeeded by best year 2012.
 
 **Dashboard Overview:**
+
+![Global_SR](Global_SR.JPG)
 
 
 # Project 5
@@ -67,5 +69,3 @@
 **Project Description:** Evaluating various models for predicting subscriptions to the products of a bank
 
 **Technology Used:** R Studio
-
-![Global_SR](Global_SR.JPG)
