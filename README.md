@@ -66,6 +66,6 @@
 
 **Project Description:** Evaluating various models for predicting subscriptions to the products of a bank
 
-**Technology Used:** R Studion
+**Technology Used:** R Studio
 
 ![Global_SR](Global_SR.JPG)
