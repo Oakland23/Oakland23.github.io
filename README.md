@@ -60,7 +60,7 @@
 
 **Title:** Marketing Evaluation
 
-**R Scripts and Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
+**R Scripts and Code:** [Models Evaluation with R](https://github.com/Oakland23/Oakland23.github.io/blob/main/PPA%20-%20Model%20Evaluation%20with%20R.pdf)
 
 **R Skills Used:** ETL, data import, library, logit, KNN, random forest, decision trees, report export 
 
