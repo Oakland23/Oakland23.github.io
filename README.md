@@ -34,7 +34,7 @@
 
 **Title:** Human Resources
 
-**SQL Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
+**SQL Queries:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
 
 **SQL Skills Used:** ETL, database creation, data import, data interrogation across tables, report export 
 
@@ -54,5 +54,18 @@
 **Key Findings:** An average profit per order of 441.68k earned, worst performing year 2011 immediately succeeded by best year 2012.
 
 **Dashboard Overview:**
+
+
+# Project 5
+
+**Title:** Marketing Evaluation
+
+**R Scripts and Code:** [Employee Database-SQL Code](https://github.com/Oakland23/Oakland23.github.io/blob/main/Employee.SQL)
+
+**R Skills Used:** ETL, data import, library, logit, KNN, random forest, decision trees, report export 
+
+**Project Description:** Evaluating various models for predicting subscriptions to the products of a bank
+
+**Technology Used:** R Studion
 
 ![Global_SR](Global_SR.JPG)
