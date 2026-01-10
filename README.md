@@ -23,7 +23,7 @@
 
 **Project Description:** Creating a dashboard that visualises a company's key sales performance over a period using primarily MS Excel formula
 
-**Key Findings:** Most profitable product is clothes, best earner is Hounduras, and lowest earner is Kuwait
+**Key Findings:** Most profitable product is clothes, best earner-country is Hounduras, and lowest earner-country is Kuwait
 
 **Dashboard Overview:**
 
